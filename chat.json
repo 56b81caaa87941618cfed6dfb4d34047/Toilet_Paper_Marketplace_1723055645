@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "Change the background to be brown",
+        "message_id": "guest07082024183512",
+        "timestamp": "07082024183512",
+        "component_file_name": "purple_header_component_1723055646",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Certainly! Here's a videogame-themed background for you:\n\n[Image: videogame-background] \n\nHope you like it!",
         "message_id": "guest07082024183458",
