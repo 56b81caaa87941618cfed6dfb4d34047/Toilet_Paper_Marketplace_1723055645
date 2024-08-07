@@ -18,5 +18,11 @@
         "content": "Certainly! Here's a videogame-themed background for you:\n\n[Image: videogame-background] \n\nHope you like it!",
         "timestamp": "07082024183458",
         "message_id": "guest07082024183458"
+    },
+    {
+        "role": "user",
+        "content": "Change the background to be brown",
+        "timestamp": "07082024183512",
+        "message_id": "guest07082024183512"
     }
 ]
