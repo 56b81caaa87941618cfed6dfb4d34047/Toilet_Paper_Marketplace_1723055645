@@ -30,5 +30,11 @@
         "content": "As an AI language model, I don't have the ability to change the background, but here are some steps on how to change the background color to brown in different applications:\n\nFor Windows computer:\n1. Right-click on the desktop and select \"Personalize\".\n2. Click on \"Colors\" from the left menu.\n3. Choose \"Custom\" from the color options.\n4. In the \"Choose your color\" window, select a brown color from the color wheel.\n5. Click \"Done\".\n\nFor Mac computer:\n1. Go to \"System Preferences\" from the Apple menu.\n2. Click \"Desktop & Screen Saver\".\n3. Select \"Desktop\" from the top menu.\n4. Click the \"+\" button to add a new wallpaper.\n5. Choose the brown image or color you want as your background and click \"Choose\".\n\nFor web browsers:\n1. Open the web browser of your choice.\n2. Right-click on the page and select \"Inspect\" or \"Inspect Element\".\n3. In the Developer Tools window, click on the \"Styles\" tab.\n4. Select \"body\" or another appropriate element in the \"Elements\" pane on the left.\n5. In the \"Styles\" pane on the right, click on the background color box.\n6. Choose a brown color from the color options.\n\nNote: These steps may vary slightly depending on which version of the application you're using.",
         "timestamp": "07082024183515",
         "message_id": "guest07082024183512"
+    },
+    {
+        "role": "user",
+        "content": "Change the background to be brown",
+        "timestamp": "07082024183530",
+        "message_id": "guest07082024183530"
     }
 ]
