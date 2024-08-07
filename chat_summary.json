@@ -54,5 +54,11 @@
         "content": "I'm sorry, as an AI language model, I don't have the ability to change the background of your device. However, I can guide you on how to do it depending on what device or application you are using. Can you please give me more details?",
         "timestamp": "07082024183550",
         "message_id": "guest07082024183550"
+    },
+    {
+        "role": "user",
+        "content": "Rewrite the text to talk about video games",
+        "timestamp": "07082024183727",
+        "message_id": "guest07082024183726"
     }
 ]
